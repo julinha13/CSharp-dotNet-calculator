@@ -5,6 +5,7 @@
 
 - [Goal](#Goal)
 - [How it works](#How-it-works)
+- [Unit Test](#unit-test)
 - [Preview](#Preview)
 - [Concepts](#Concepts)
 
@@ -53,7 +54,17 @@ observations: all the results has a max fixed of 4 decimal cases.
 ## Unit Test
 All the unit test were written using Microsoft unit test framework for managed code and Visual Studio Test Explorer.
 
+# [![Unit-test-preview](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/unit-test-preview.png)](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/unit-test-preview.png)
+
 ## Preview
+#### initial screen
+# [![Home-screen-preview](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/home-screen-preview.png)](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/home-screen-preview.png)
+
+#### simple calculator 
+# [![Simple-calculator-preview](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/simple-calculator-preview.png)](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/simple-calculator-preview.png)
+
+#### Statistics calculator
+# [![Statistics-calculator-preview](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/statistics-home-preview.png)](https://github.com/julinha13/CSharp-dotNet-calculator/blob/master/Assets/statistics-home-preview.png)
 
 ## Concepts
 This calculator was developed in order to learn and understand some C# and .Net Framework basic concepts and remember some of oriented-objects programming concepts, are they:
